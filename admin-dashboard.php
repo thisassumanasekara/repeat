@@ -76,7 +76,7 @@
                             ?>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <a href="device-data.php" class="card-link">View Data</a>
-                            <a href="#" class="card-link">Another link</a>
+                            <a href="device-add.php" class="card-link">Add Device</a>
                         </div>
                     </div>
                 </div>
