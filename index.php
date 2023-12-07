@@ -26,12 +26,6 @@
             <a class="nav-link" href="admin.php">Admin</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="cart.php">Cart</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.php">Contact Us</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="login.php">Login</a>
           </li>
           <li class="nav-item">
@@ -101,13 +95,6 @@
                     <span>256GB Available:<?php echo $row['256_stock']; ?></span>
                   </div>
                 </div>
-
-                <div class="d-flex flex-row">
-                  <button type="button" class="btn btn-primary flex-fill me-1" data-mdb-ripple-color="dark">
-                    Add to Cart
-                  </button>
-                  <button type="button" class="btn btn-danger flex-fill ms-1">Buy now</button>
-                </div>
               </div>
             </div> <?php
                   }
@@ -124,14 +111,12 @@
     <h1 style="text-align:center;">About Us</h1>
     <div class="about">
       <div class="about-left">
-        <p><br><br><br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+        <p><br><br><br>we believe in the power of connectivity and the seamless integration of technology into our daily lives. Established with a passion for delivering
+         cutting-edge mobile devices and accessories, we are your go-to destination for all things mobile.We are a team of tech enthusiasts driven by a common goal – to provide
+          our customers with the latest and greatest in mobile technology. With a commitment to quality and innovation, we curate a diverse selection of smartphones, tablets,
+           smartwatches, and accessories to meet the dynamic needs of our tech-savvy community.Explore the latest trends, discover innovative gadgets, and stay ahead in the fast-paced world of mobile technology. We are more than just a store; we are a community that shares a love for all things mobile.
+
+          Thank you for choosing us!</p>
       </div>
       <div class="about-right"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15845.63217015621!2d79.98521638715816!3d6.841586999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae251dceebf13a3%3A0x4f7fdb1c65b63ddc!2sMobile%20Planet!5e0!3m2!1sen!2slk!4v1701843293695!5m2!1sen!2slk" width="400" height="500" style="border:0;"></iframe></div>
     </div>
@@ -142,28 +127,98 @@
       <img src="images/1.png" />
       <figcaption>
         <blockquote>
-          <p>Which is worse, that everyone has his price, or that the price is always so low.</p>
+          <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
         </blockquote>
         <h3>Sue Shei</h3>
-        <h5>Founder</h5>
+       
+      </figcaption>
+    </figure>
+    <figure class="snip1574">
+      <img src="images/1.png" />
+      <figcaption>
+        <blockquote>
+          <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
+        </blockquote>
+        <h3>Sue Shei</h3>
+       
+      </figcaption>
+    </figure>
+    <figure class="snip1574">
+      <img src="images/1.png" />
+      <figcaption>
+        <blockquote>
+          <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
+        </blockquote>
+        <h3>Sue Shei</h3>
+       
+      </figcaption>
+    </figure>
+    <figure class="snip1574">
+      <img src="images/1.png" />
+      <figcaption>
+        <blockquote>
+          <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
+        </blockquote>
+        <h3>Sue Shei</h3>
+       
+      </figcaption>
+    </figure>
+    <figure class="snip1574">
+      <img src="images/1.png" />
+      <figcaption>
+        <blockquote>
+          <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
+        </blockquote>
+        <h3>Sue Shei</h3>
+       
+      </figcaption>
+    </figure>
+    <figure class="snip1574">
+      <img src="images/1.png" />
+      <figcaption>
+        <blockquote>
+          <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
+        </blockquote>
+        <h3>Sue Shei</h3>
+       
+      </figcaption>
+    </figure>
+    <figure class="snip1574">
+      <img src="images/1.png" />
+      <figcaption>
+        <blockquote>
+          <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
+        </blockquote>
+        <h3>Sue Shei</h3>
+       
+      </figcaption>
+    </figure>
+    <figure class="snip1574">
+      <img src="images/1.png" />
+      <figcaption>
+        <blockquote>
+          <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
+        </blockquote>
+        <h3>Sue Shei</h3>
+       
       </figcaption>
     </figure>
     <figure class="snip1574"><img src="images/2.png" />
       <figcaption>
         <blockquote>
-          <p>I'm killing time while I wait for life to shower me with meaning and happiness.</p>
+          <p>We loved it, it was an amazing experience</p>
         </blockquote>
         <h3>Will Barrow</h3>
-        <h5>Web Designer</h5>
+        
       </figcaption>
     </figure>
     <figure class="snip1574"><img src="images/3.png" />
       <figcaption>
         <blockquote>
-          <p>The only skills I have the patience to learn are those that have no real application in life. </p>
+          <p>Thankyou guys for the wonderful experience and new devices</p>
         </blockquote>
         <h3>Indigo Violet</h3>
-        <h5>Public Relations</h5>
+        
       </figcaption>
     </figure>
   </section>
