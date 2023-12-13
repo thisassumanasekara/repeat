@@ -129,7 +129,7 @@
         <blockquote>
           <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
         </blockquote>
-        <h3>Sue Shei</h3>
+        <h3>Customer 1</h3>
        
       </figcaption>
     </figure>
@@ -139,7 +139,7 @@
         <blockquote>
           <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
         </blockquote>
-        <h3>Sue Shei</h3>
+        <h3>Customer 2</h3>
        
       </figcaption>
     </figure>
@@ -149,7 +149,7 @@
         <blockquote>
           <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
         </blockquote>
-        <h3>Sue Shei</h3>
+        <h3>Customer 3</h3>
        
       </figcaption>
     </figure>
@@ -159,7 +159,7 @@
         <blockquote>
           <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
         </blockquote>
-        <h3>Sue Shei</h3>
+        <h3>Customer 4</h3>
        
       </figcaption>
     </figure>
@@ -169,7 +169,7 @@
         <blockquote>
           <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
         </blockquote>
-        <h3>Sue Shei</h3>
+        <h3>Customer 5</h3>
        
       </figcaption>
     </figure>
@@ -179,7 +179,7 @@
         <blockquote>
           <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
         </blockquote>
-        <h3>Sue Shei</h3>
+        <h3>Customer 6</h3>
        
       </figcaption>
     </figure>
@@ -189,7 +189,7 @@
         <blockquote>
           <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
         </blockquote>
-        <h3>Sue Shei</h3>
+        <h3>Customer 7</h3>
        
       </figcaption>
     </figure>
@@ -199,7 +199,7 @@
         <blockquote>
           <p>It has been a great experience and thankyou for the extremley high quality product of yours</p>
         </blockquote>
-        <h3>Sue Shei</h3>
+        <h3>Customer 8</h3>
        
       </figcaption>
     </figure>
@@ -208,7 +208,7 @@
         <blockquote>
           <p>We loved it, it was an amazing experience</p>
         </blockquote>
-        <h3>Will Barrow</h3>
+        <h3>Customer 9</h3>
         
       </figcaption>
     </figure>
@@ -217,7 +217,7 @@
         <blockquote>
           <p>Thankyou guys for the wonderful experience and new devices</p>
         </blockquote>
-        <h3>Indigo Violet</h3>
+        <h3>Thank You</h3>
         
       </figcaption>
     </figure>
